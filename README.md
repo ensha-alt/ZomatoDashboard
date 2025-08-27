@@ -10,4 +10,4 @@ This project analyzes Zomato restaurant data to uncover insights about ratings, 
 
 
 📸 Dashboard Preview
-![Dashboard Screenrecord]
+[Dashboard Screenrecord](ZomatoDashboard.mp4)
