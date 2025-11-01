@@ -10,4 +10,4 @@ This project analyzes Zomato restaurant data to uncover insights about ratings, 
 
 
 📸 Dashboard Preview
-[Dashboard Screenrecord](ZomatoDashboard.mp4)
+[Dashboard Screenrecord]](https://www.linkedin.com/posts/insha-farhan-160aa236b_powerbi-dataanalytics-dashboard-activity-7360369831491047424-HCjf?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFvR4FgBsyZEwCFktnt-yPBipUAC4fjxfKM)
